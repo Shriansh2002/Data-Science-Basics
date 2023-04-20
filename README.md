@@ -7,7 +7,7 @@ This repository contains a collection of tools and resources for data science us
 The repository includes the contnent for:
 
 -   [NUMPY](./NUMPY.md)
--   [ ] Pandas
+-   [Pandas](./PANDAS.md)
 -   [ ] Matplotlib
 -   [ ] Seaborn
 -   [ ] Scikit-learn

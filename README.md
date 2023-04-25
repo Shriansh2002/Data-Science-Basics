@@ -9,7 +9,7 @@ The repository includes the contnent for:
 -   [NUMPY](./NUMPY.md)
 -   [Pandas](./PANDAS.md)
 -   [Matplotlib](./MATPLOTLIB.md)
--   [ ] Seaborn
+-   [Seaborn](./SEABORN.md)
 -   [ ] Scikit-learn
 
 ## Getting Started

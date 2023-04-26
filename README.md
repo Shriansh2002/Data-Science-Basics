@@ -10,7 +10,7 @@ The repository includes the contnent for:
 -   [Pandas](./PANDAS.md)
 -   [Matplotlib](./MATPLOTLIB.md)
 -   [Seaborn](./SEABORN.md)
--   [ ] Scikit-learn
+-   [Scikit-learn](./SCIKIT-LEARN.md)
 
 ## Getting Started
 

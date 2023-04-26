@@ -6,11 +6,11 @@ This repository contains a collection of tools and resources for data science us
 
 The repository includes the contnent for:
 
--   [NUMPY](./NUMPY.md)
--   [Pandas](./PANDAS.md)
--   [Matplotlib](./MATPLOTLIB.md)
--   [Seaborn](./SEABORN.md)
--   [Scikit-learn](./SCIKIT-LEARN.md)
+-   [NUMPY](./Libraries/NUMPY.md)
+-   [Pandas](./Libraries/PANDAS.md)
+-   [Matplotlib](./Libraries/MATPLOTLIB.md)
+-   [Seaborn](./Libraries/SEABORN.md)
+-   [Scikit-learn](./Libraries/SCIKIT-LEARN.md)
 
 ## Getting Started
 
